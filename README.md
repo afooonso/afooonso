@@ -8,4 +8,4 @@
 
 📫 How to reach me: afonsopedreira14@gmail.com
 
-![Snake animation](https://github.com/afooonso/afooonso/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](assets/github-contribution-grid-snake.svg)
