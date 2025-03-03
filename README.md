@@ -42,4 +42,4 @@
 ![PWA](https://img.shields.io/badge/PWA-5C2D91?style=for-the-badge&logo=pwa&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-f43729?style=for-the-badge&logo=protocolsdotio&logoColor=white)
 
-![Snake animation](assets/github-contribution-grid-snake.svg)
+![Snake animation](assets/snake.svg)
